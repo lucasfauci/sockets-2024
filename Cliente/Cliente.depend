@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1725120151 source:d:\universidad\2024\1er cuatrimestre\2do cuatrimestre\desarrollo de software en sistemas distribuidos\actividad sockets\proyecto\sockets-priv\cliente\main.c
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<locale.h>
+
