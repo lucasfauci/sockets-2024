@@ -1,0 +1,15 @@
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\bin\Debug\net8.0\ClienteC#.exe
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\bin\Debug\net8.0\ClienteC#.deps.json
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\bin\Debug\net8.0\ClienteC#.runtimeconfig.json
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\bin\Debug\net8.0\ClienteC#.dll
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\bin\Debug\net8.0\ClienteC#.pdb
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\obj\Debug\net8.0\ClienteC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\obj\Debug\net8.0\ClienteC#.AssemblyInfoInputs.cache
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\obj\Debug\net8.0\ClienteC#.AssemblyInfo.cs
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\obj\Debug\net8.0\ClienteC#.csproj.CoreCompileInputs.cache
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\obj\Debug\net8.0\ClienteC#.sourcelink.json
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\obj\Debug\net8.0\ClienteC#.dll
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\obj\Debug\net8.0\refint\ClienteC#.dll
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\obj\Debug\net8.0\ClienteC#.pdb
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\obj\Debug\net8.0\ClienteC#.genruntimeconfig.cache
+D:\Universidad\2024\1er cuatrimestre\2do cuatrimestre\Desarrollo de Software en Sistemas Distribuidos\Actividad sockets\Proyecto\sockets-priv\ClienteC#\obj\Debug\net8.0\ref\ClienteC#.dll
